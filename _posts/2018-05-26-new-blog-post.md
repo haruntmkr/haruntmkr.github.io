@@ -1,5 +1,5 @@
 ---
-title: Bir blog yazisi
+title: Bir blog yazısı
 ---
 ![Test](/blog/img/img-test.png "Test")
 
